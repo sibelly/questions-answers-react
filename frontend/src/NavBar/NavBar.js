@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <nav className="navbar navbar-dark bg-primary fixed-top">
       <Link className="navbar-brand" to="/">
-        QeApp
+        Q&App
       </Link>
     </nav>
   );
